@@ -1,0 +1,66 @@
+
+# Todolist
+
+- [ ] 数据结构 
+  - [ ] splay/treap/替罪羊树 
+  - [ ] lct
+  - [ ] kd~tree
+  - [ ] 二进制分组
+  - [x] 主席树 [2018-1-15](http://huhaoo.coding.me/2018/01/15/%E4%B8%BB%E5%B8%AD%E6%A0%91/)
+    - [x] 可持久化数组
+    - [ ] 可持久化并查集
+  - [ ] 树链剖分 [2018-1-21](http://huhaoo.coding.me/2018/01/21/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/#more)
+  - [ ] 可持久化treap
+  - [ ] 可持久化trie
+  - [ ] 吉司机线段树
+    - [ ] 区间最值问题
+    - [ ] 历史最值问题
+  - [ ] 划分树
+  - [ ] zkw线段树
+  - [ ] ~~WYS式32叉线段树（不打算去搞了）~~
+- [ ] 字符串
+  - [x] hash 
+  - [ ] 后缀自动机
+- [ ] C++
+  - [ ] pb_ds
+    - [ ] priority queue
+    - [ ] tree
+    - [ ] hash_table
+- [ ] 图论
+  - [ ] 2-SAT
+  - [x] 匈牙利算法 [2018-1-18](http://huhaoo.coding.me/2018/01/18/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%8C%B9%E9%85%8D/#more)
+  - [ ] Kuhn-Munkres
+  - [x] 带花树算法 [2018-1-22](http://huhaoo.coding.me/2018/01/22/%E5%B8%A6%E8%8A%B1%E6%A0%91/)
+  - [x] dinic [2018-1-19](http://huhaoo.coding.me/2018/01/19/%E7%BD%91%E7%BB%9C%E6%B5%81/#more)
+  - [x] 割点(tarjan) [2018-1-19](http://huhaoo.coding.me/2018/01/19/%E5%89%B2%E7%82%B9/#more)
+- [ ] 群论
+  - [ ] Polya
+- [ ] 数论
+  - [ ] FFT
+  - [ ] 生成函数
+  - [ ] Miller-Rabin
+  - [x] Pollard-rho
+  - [ ] BSGS
+  - [ ] 杜教筛
+  - [ ] 莫比乌斯反演
+- [ ] DP
+  - [ ] 单调队列优化
+  - [ ] 斜率优化
+  - [ ] 四边形不等式优化
+  - [ ] 数位DP
+- [ ] 其它算法
+  - [ ] 整体二分
+- [ ] 历届NOI
+  - [ ] NOI2012
+  - [ ] NOI2013
+  - [ ] NOI2014
+  - [ ] NOI2015
+  - [ ] NOI2016
+  - [ ] NOI2017
+- [ ] 历届NOIP
+  - [ ] NOIP2012
+  - [ ] NOIP2013
+  - [ ] NOIP2014
+  - [ ] NOIP2015
+  - [ ] NOIP2016
+  - [ ] NOIP2017
